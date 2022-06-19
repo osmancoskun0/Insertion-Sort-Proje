@@ -40,3 +40,6 @@
     
     -   Adım No:4 <br>
         <span style="color:orange;">[2,3,4,5,6,9,8,15,7]</span>
+
+
+        ![ekran resmi](/img/ekran-resmi.png "ekran resmi")
